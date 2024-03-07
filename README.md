@@ -40,6 +40,3 @@ To use the Movie Recommendation System:
 
 Contributions to enhance the movie recommendation system, add new features, or fix issues are welcome! Please feel free to submit pull requests or open issues if you encounter any problems.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
